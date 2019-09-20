@@ -1,2 +1,3 @@
 # hello-world
-First Hellow world project to learn git
+Hello world per commit
+First Hellow world project to learn git.
